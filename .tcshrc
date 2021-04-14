@@ -1,0 +1,10 @@
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+if ( -f "/opt/conda/etc/profile.d/conda.csh" ) then
+    source "/opt/conda/etc/profile.d/conda.csh"
+else
+    setenv PATH "/opt/conda/bin:$PATH"
+endif
+# <<< conda initialize <<<
+
